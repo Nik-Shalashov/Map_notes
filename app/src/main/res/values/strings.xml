@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Map notes</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="sTagInfo">Координаты (%f, %f)</string>
+    <string name="sLongTap">Долгое нажатие для удаления</string>
+    <string name="sLocatePermission">Необходимо разрешить данные о местоположении</string>
+    <string name="sRetry">Повторить</string>
+</resources>
